@@ -1,0 +1,9 @@
+name: TheHungerGames
+author: syes
+version: 0.9.1
+description: A simple Hungergames plugin
+main: me.syes.thehungergames.TheHungerGames
+commands:
+  hg:
+    description: main plugin command
+    aliases: [sg, hungergames, survivalgames]
